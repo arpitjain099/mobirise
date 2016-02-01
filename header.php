@@ -1,4 +1,6 @@
-
+<?php 
+session_start();
+?>
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -17,6 +19,39 @@
   <link rel="stylesheet" href="assets/fundmyventure/css/mbr-additional.css" type="text/css">
   
 </head>
+
+  <div class="modal fade" id="loginmodal" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+           <button type="button" class="close" data-dismiss="modal">x</button>
+           <?php 
+// <div class="dropdown">    <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Dropdown Example    <span class="caret"></span></button>    <ul class="dropdown-menu">      <li><a href="#">HTML</a></li>      <li><a href="#">CSS</a></li>      <li><a href="#">JavaScript</a></li>    </ul>  </div>
+
+           ?>
+          <center><h4 class="modal-title">Login</h4></center>
+        </div>
+        <div class="modal-body">
+           <form method="post" action='' name="login_form">
+              <p><input type="text" name="eid" id="email" placeholder="Email"></p>
+              <p><input type="password"  name="passwd" placeholder="Password"></p>
+              <p><button type="submit" class="btn btn-primary">Sign in</button><br>
+                <a href="#">Forgot Password?</a>
+              </p>
+            </form>
+
+        </div>
+        <div class="modal-footer">
+          New To FundMyVenture?
+            <a href="#" class="btn btn-default">Register</a>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+
 
   <div class="modal fade" id="windowloadmodal" role="dialog">
     <div class="modal-dialog">
@@ -111,7 +146,20 @@
                 <div class="mbr-navbar__column mbr-navbar__menu">
                     <nav class="mbr-navbar__menu-box mbr-navbar__menu-box--inline-right">
                         <div class="mbr-navbar__column"><ul class="mbr-navbar__items mbr-navbar__items--right mbr-buttons mbr-buttons--freeze mbr-buttons--right btn-decorator mbr-buttons--active"><li class="mbr-navbar__item"><a class="mbr-buttons__link btn text-white" href="#investor">Investors</a></li> <li class="mbr-navbar__item"><a class="mbr-buttons__link btn text-white" href="#startup">Startups</a></li><li class="mbr-navbar__item"><a class="mbr-buttons__link btn text-white" href="#about">About</a></li>
-                            <li class="mbr-navbar__item"><a class="mbr-buttons__link btn text-white" href="#contact">Contact</a></li></ul></div>
+                            <li class="mbr-navbar__item"><a class="mbr-buttons__link btn text-white" href="#contact">Contact</a></li>
+                            <li class="mbr-navbar__item">
+                              <?php 
+                              if (!isset($_SESSION['username'])) {
+    // ...
+                                 echo ' <div class="dropdown">    <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Dropdown Example    <span class="caret"></span></button>    <ul class="dropdown-menu">      <li><a href="#">HTML</a></li>      <li><a href="#">CSS</a></li>      <li><a href="#">JavaScript</a></li>    </ul>  </div>'; 
+//$_SESSION["username"]
+                              
+                               
+                              ?>
+
+                              <div class="mbr-buttons  mbr-buttons--left"><a class="mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning" data-toggle="modal" href="#loginmodal">Login</a> </div>
+                            </li>
+                          </ul></div>
                 
                     </nav>
                 </div>
