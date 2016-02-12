@@ -1,8 +1,6 @@
-
+<!DOCTYPE html>
+<html>
 <?php require('header.php'); ?>
-
-  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
-
 
 
 <section class="mbr-box mbr-section mbr-section--relative mbr-section--fixed-size mbr-section--full-height mbr-section--bg-adapted mbr-parallax-background mbr-after-navbar" id="header1-73" >
@@ -25,7 +23,11 @@
                 </div></div>
             </div></div>
         </div>
-      
+        <div class="mbr-arrow mbr-arrow--floating text-center">
+            <div class="mbr-section__container container">
+                <a class="mbr-arrow__link" href="#features1-75"><i class="glyphicon glyphicon-menu-down"></i></a>
+            </div>
+        </div>
     </div>
 </section>
 
@@ -132,6 +134,26 @@
                                 </tbody>
                             </table>
                         </div>
+                        <div class="table-responsive">
+                            <table class="table table-bordered table-hover">
+                                <thead>
+                                    <tr>
+                                        <th><center>Recomendations</center></th>
+                                       
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td><img src="http://cdn.osxdaily.com/wp-content/uploads/2010/10/giant-apple-logo-bw.png" class=" col-sm-3"/>Rockstar 3 <br>Name
+                                            <br> Credentials</td>
+                                    </tr>
+                                     <tr>
+                                        <td><img src="http://cdn.osxdaily.com/wp-content/uploads/2010/10/giant-apple-logo-bw.png" class=" col-sm-3"/>Rockstar 4 <br>Name
+                                            <br> Credentials</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
                           
                                         </div>
                  <div class=" col-sm-8">
@@ -144,7 +166,9 @@
             <li><a href="#market" data-toggle="tab">Market</a></li>
             <li><a href="#competition" data-toggle="tab">Competition</a></li>
             <li><a href="#qna" data-toggle="tab">Q & A forum</a></li>
-           
+            <li><a href="#highlights" data-toggle="tab">Highlights</a></li>
+            <li><a href="#kpi" data-toggle="tab">Key Performance Indicators</a></li>
+            <li><a href="#traction" data-toggle="tab">Traction</a></li>
 
 
           </ul>
@@ -187,7 +211,11 @@
 
                 </div>
         </div>
-      
+        <div class="mbr-arrow mbr-arrow--floating text-center">
+            <div class="mbr-section__container container">
+                <a class="mbr-arrow__link" href="#features1-77"><i class="glyphicon glyphicon-menu-down"></i></a>
+            </div>
+        </div>
     </div>
 </section>
 
@@ -220,6 +248,7 @@ No new announcements as of now!
 </section>
 
 <?php require('footer.php'); ?>
+  <script src="assets/jquery/jquery.min.js"></script>
   <script src="https://maps.googleapis.com/maps/api/js"></script>
   <script src="assets/smooth-scroll/SmoothScroll.js"></script>
   <script src="assets/jarallax/jarallax.js"></script>
@@ -231,5 +260,6 @@ No new announcements as of now!
   <script src="assets/mobirise-gallery/script.js"></script>
   
   
-</body>
-</html>
+
+
+<?php require('footer.php');?>

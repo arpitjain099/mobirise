@@ -1,0 +1,2376 @@
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/pub/sahil-barua/8/843/516','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Sahil_Barua.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Sahil Barua</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Delhivery</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/kunalbahl','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Kunal_Bahl.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Kunal Bahl</div>
+      </div>
+   </div>
+   <div class="description">CEO @Snapdeal</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/deepigoyal','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Deepinder_Goyal.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Deepinder Goyal</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Zomato</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/warikoo','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Ankur_Warikoo.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Ankur Warikoo</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Groupon India</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/raghunandan-g/4/907/bba','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Raghunandan_G.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Raghunandan G</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ TaxiForSure</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/aneesh-reddy/b/176/38b','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Aneesh_Reddy.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Aneesh Reddy</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Capillary Technologies</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/mekin','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Mekin_Maheshwari.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Mekin Maheshwari</div>
+      </div>
+   </div>
+   <div class="description">Chief People Officer @ Flipkart.com</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/rohitkbansal','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Rohit_Bansal.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Rohit Bansal</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @Snapdeal</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/pub/abhay-singhal/3/542/363','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Abhay_Singhal.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Abhay Singhal</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ InMobi</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/amitgupta007','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Amit_Gupta.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Amit Gupta</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ InMobi</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/kunalshah1','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Kunal_Shah.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Kunal Shah</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ FreeCharge</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('http://www.linkedin.com/in/satyenkothari','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Satyen_Kothari.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Satyen Kothari</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Citrus Pay</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/abhiraj-bhal/6/951/773','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Abhiraj_Bhal.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Abhiraj Bhal</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ UrbanClap</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/pub/nandan-reddy/9/65/183','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Nandan_Reddy.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Nandan Reddy</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Swiggy</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/pub/anupam-mittal/14/b01/4b3','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Anupam_Mittal.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Anupam Mittal</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ People Group</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/ambarishngupta','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Ambarish_Gupta.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Ambarish Gupta</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Knowlarity</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/pramodmaheshwari','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Pramod_Maheshwari.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Pramod Maheshwari</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Career Point</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/alokebajpai','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Aloke_Bajpai.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Aloke Bajpai</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ ixigo.com</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/ankursingla1','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Ankur_Singla.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Ankur Singla</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Akosha.com</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/ashish1','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Ashish_Mehta.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Ashish Mehta</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Sokrati.com</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/nj123','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Neeraj_Jain.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Neeraj Jain</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Zopper</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/pub/prashant-tandon/0/2a4/280','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Prashant_Tandon.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Prashant Tandon</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ 1mg</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/pub/sameer-maheshwari/0/a78/7a8','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Sameer_Maheshwari.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Sameer maheshwari</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder@ HealthKart</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/nakulaggarwal','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Nakul_Aggarwal.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Nakul Aggarwal</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ BrowserStack</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/himanshuaggarwal','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Himanshu_Aggarwal.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Himanshu Aggarwal</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Aspiring Minds</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/varun-aggarwal/0/424/b74','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Varun_Jalan.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Varun Jalan</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Aspiring Minds</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/pub/ritesh-arora/7/37b/889','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Ritesh_Arora.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Ritesh Arora</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ BrowserStack.com</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/pub/virendra-gupta/0/a44/190','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Virendra_Gupta.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Virendra Gupta</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Ver Se Innovation</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/venkatraju','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Venkat_Raju.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Venkat Raju</div>
+      </div>
+   </div>
+   <div class="description"></div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/sumjain','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Sumit_Jain.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Sumit Jain</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ CommonFloor.com</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/pub/pramod-bhasin/b/95/b79','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Pramod_Bhasin.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Pramod Bhasin</div>
+      </div>
+   </div>
+   <div class="description">CEO @ Genpact</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/kpowerinfinity','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Krishna_Mehra.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Krishna Mehra</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Capillary Technologies</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/guptajiten','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Jitendra_Gupta.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Jitendra Gupta</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Citrus Pay</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/alok-mittal/0/a/590','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Alok_Mittal.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Alok Mittal</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Indifi Technologies</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/ceoinvestor','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Sanjay_Mehta.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Sanjay Mehta</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ MAIA Intelligence</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/pub/ashish-goenka/55/41a/540','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Ashish_Goenka.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Ashish Goenka</div>
+      </div>
+   </div>
+   <div class="description">Chairman @ Suashish Diamonds</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/raisweta/en','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Sweta_Rai.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Sweta Rai</div>
+      </div>
+   </div>
+   <div class="description">Investment Associate @ Palaash Ventures</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/smanishsinghal','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Manish_Singhal.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Manish Singhal</div>
+      </div>
+   </div>
+   <div class="description">Advisor @ P39 Capital</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/neerajgoenka','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Neeraj_Goenka.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Neeraj Goenka</div>
+      </div>
+   </div>
+   <div class="description">Director @ Texport Industries</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/mukularora1','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Mukul_Arora.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Mukul Arora</div>
+      </div>
+   </div>
+   <div class="description">Principal @ SAIF Partners</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/utsavsomani','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Utsav_Somani.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Utsav Somani</div>
+      </div>
+   </div>
+   <div class="description">ED @ Utsav Exim</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/svenugopal','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Venugopal_Sathyanarayana.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Venugopal Sathyanarayana</div>
+      </div>
+   </div>
+   <div class="description">Venture Capitalist @ Orios Venture Partners</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/pub/dharamveer-singh-chouhan/15/744/8b6','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Dharamveer_Singh-Chouhan.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Dharamveer Singh-Chouhan</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Zostel</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/ataneja','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Ashish_Taneja.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Ashish Taneja</div>
+      </div>
+   </div>
+   <div class="description">MD @ growX ventures</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/akshaymittal','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Akshay_Mittal.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Akshay Mittal</div>
+      </div>
+   </div>
+   <div class="description">Partner @ First Coffee Ventures</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('http://www.hyderabadangels.in/pradeep-kamasani#','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Pradeep_Kamasani.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Pradeep Kamasani</div>
+      </div>
+   </div>
+   <div class="description">Director @ Hunter Tech Ventures</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/harikris','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Hari_Krishnan.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Hari Krishnan</div>
+      </div>
+   </div>
+   <div class="description">Fund Manager @ Astarc Ventures</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/pub/arjun-malhotra/36/658/a9','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Arjun_Malhotra.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Arjun Malhotra</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Investopad</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/pub/mayank-bidawatka/1/b2a/28','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Mayank_Bidawatka.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Mayank Bidawatka</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Goodbox</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/mansimatela','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Mansi_Matela.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Mansi Matela</div>
+      </div>
+   </div>
+   <div class="description">Sr Associate @ Palaash Ventures</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/gaufire','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Gaurav_Sharma.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Gaurav Sharma</div>
+      </div>
+   </div>
+   <div class="description">Managing Partner @ Appsdome Venture</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/pub/sunil-kalra/21/9a6/a12','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Sunil_Kalra.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Sunil Kalra</div>
+      </div>
+   </div>
+   <div class="description">MD @ ViaProjects</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/pub/navin-honagudi/8/66/985','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Navin_Honagudi.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Navin Honagudi</div>
+      </div>
+   </div>
+   <div class="description">Investment Director @ Kae Capital</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/arunvenk','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Arun_Venkatachalam.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Arun Venkatachalam</div>
+      </div>
+   </div>
+   <div class="description">Lead @ Cloud Vidyashram</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/aditparekh','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Adit_Parekh.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Adit Parekh</div>
+      </div>
+   </div>
+   <div class="description">Principal @ Blume Venture Advisors</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/pub/amit-kumar-agarwal/1/30/5b3','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Amit_Agrawaal.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Amit Agrawaal</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ NoBroker.com</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/rachanaramchand','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Rachana_Ramachand.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Rachana Ramachand</div>
+      </div>
+   </div>
+   <div class="description">Associate @ Asha Impact</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/ganeshrengaswamy','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Ganesh_Rengaswamy.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Ganesh Rengaswamy</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Travelguru</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/lalitmangal','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Lalit_Mangal.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Lalit Mangal</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ CommonFloor.com</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/pub/pradeep-tagare/0/5a3/775','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Pradeep_Tagare.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Pradeep Tagare</div>
+      </div>
+   </div>
+   <div class="description">Director @ Intel Capital India</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/rpsrivastava','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Ravi_Srivastava.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Ravi Srivastava</div>
+      </div>
+   </div>
+   <div class="description">Founding Partner @ Purvi Capital</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/arnabdas123','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Arnab_Das.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Arnab Das</div>
+      </div>
+   </div>
+   <div class="description">Sr VP @ Kotak Mahindra Bank</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/sajiv-dhawan/64/530/282','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Sajiv_Dhawan.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Sajiv Dhawan</div>
+      </div>
+   </div>
+   <div class="description">CEO @ JV Capital Services</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/subba-rao-dukkipati/3a/873/1b5','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Subba_Dukkipati.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Subba Dukkipati</div>
+      </div>
+   </div>
+   <div class="description">Managing Partner @ Pragnya Group</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/akshay-tanna/58/215/553','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Akshay_Tanna.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Akshay Tanna</div>
+      </div>
+   </div>
+   <div class="description">Investment Professional @ TPG Capital</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/udaysodhi','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Uday_Sodhi.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Uday Sodhi</div>
+      </div>
+   </div>
+   <div class="description">Executive VP@ Multi Screen Media</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/brijbhushan1','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Brij_Bhusan.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Brij Bhusan</div>
+      </div>
+   </div>
+   <div class="description">VP @ Nexus Venture Partners</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/ashishk','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Ashish_Kumar.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Ashish Kumar</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Staybees</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/shekharsahu','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Shekhar_Sahu.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Shekhar Sahu</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ HealthcareMagic</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/satveer-singh-thakral/90/4bb/145','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Satveer_Singh.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Satveer Thakral</div>
+      </div>
+   </div>
+   <div class="description"></div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/karan-singh-thakral/0/435/a6','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Karan_Thakral.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Karan Thakral</div>
+      </div>
+   </div>
+   <div class="description">ED @ Thakral Group</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/bharanidharanviswanathan','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Bharanidharan_Viswanathan.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Bharanidharan Viswanathan</div>
+      </div>
+   </div>
+   <div class="description">CEO & Founder @ 91mobiles.com</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/mathurnishant','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Nishant_Mathur.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Nishant Mathur</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Round One</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/pallavpandey','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Pallav_Pandey.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Pallav Pandey</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Oku Tech</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/praful-thachery/13/684/9b','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Praful_Thachery.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Praful Thachery</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Delyver Retail Network</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/alokkabra','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Alok_Kabra.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Alok Kabra</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ ARK Hiring</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/ajayrn','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Ajay_Nair.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Ajay Nair</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ MeraDoctor</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/givatury','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Gautam_Ivatury.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Gautam Ivatury</div>
+      </div>
+   </div>
+   <div class="description">Executive Chairman @ MeraDoctor</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('http://www.linkedin.com/in/ranedk','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Devendra_Rane.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Devendra Rane</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Coverfox</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/swapnil-jain/4b/ba1/431','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Swapnil_Jain.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Swapnil Jain</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Ather Energy</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('http://www.linkedin.com/in/tppratap','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Pratap_TP.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Pratap TP</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ QwikCilver</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/founderctotriphobo','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Saket_Newaskar.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Saket Newaskar</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ TripHobo.com</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('http://www.linkedin.com/in/ashwinnaik','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Ashwin_Naik.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Ashwin Naik</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Vaatsalya Hospitals</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/arvindkumara','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Arvind_Kumar.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Arvind Kumar</div>
+      </div>
+   </div>
+   <div class="description">CEO @ Attune Technologies</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('http://www.linkedin.com/pub/devesh-sachdev/18/b29/a64','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Devesh_Sachdev.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Devesh Sachdev</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Fusion Microfinance</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('http://www.linkedin.com/pub/ramakrishnan-vl/14/901/903','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Ramakrishnan_VL.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Ramakrishnan VL</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Suryoday Microfinance</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('http://www.linkedin.com/pub/tanay-tayal/0/529/566','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Tanay_Tayal.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Tanay Tayal</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Moonfrog Labs</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('http://www.linkedin.com/pub/rajat-mohanty/1/1b6/886','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Rajat_Mohanty.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Rajat Mohanty</div>
+      </div>
+   </div>
+   <div class="description">CEO @ Paladion Networks</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('http://www.linkedin.com/in/venkatnelabhotla','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Venkateswarlu_Nelabhotla.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Venkateswarlu Nelabhotla</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Vyome Biosciences</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('http://www.linkedin.com/pub/deepak-garg/39/4b4/420','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Deepak_Garg.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Deepak Garg</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ rivigo</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('http://www.linkedin.com/in/guptasidharth','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Sidharth_Gupta.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Sidharth Gupta</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Treebo</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/sateeshandra','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Sateesh_Andra.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Sateesh Andra</div>
+      </div>
+   </div>
+   <div class="description">Managing Partner @ Ventureast Tenet Fund</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/pub/gazal-kalra/3/652/a5b','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Gazal_Kalra.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Gazal Kalra</div>
+      </div>
+   </div>
+   <div class="description">Co Founder @ Rivigo</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('http://www.linkedin.com/pub/arjun-basu/0/35/718','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Arjun_Basu.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Arjun Basu</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ mydala.com</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/pub/pallavi-gupta/3/259/79','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Pallavi_Gupta.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Pallavi Gupta</div>
+      </div>
+   </div>
+   <div class="description">COO @ Mast Kalandar</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/chaudharyrahul','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Rahul_Chaudhry.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Rahul Chaudhry</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Treebo</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/shijuradhakrishnan','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Shiju_Radhakrishnan.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Shiju Radhakrishnan</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ iTraveller.com</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/shahviraj','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Viraj_Shah.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Viraj Shah</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Niffler Labs</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/bharat-kapoor/10/b2b/56','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Bharat_Kapoor.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Bharat Kapoor</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Your Kids 'R' Our Kids</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/amitavasaha73','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Amitava_Saha.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Amitava Saha</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ FirstCry.com</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/ajay-adiseshann/3/574/340','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Ajay_Adiseshann.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Ajay Adiseshann</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Paymate</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/suchimukherjee','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Suchi_Mukherjee.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Suchi Mukherjee</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Limeroad.com</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/navneet-rai/4/913/909','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Navneet_Kumar.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Navneet Kumar</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Tolexo.com</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/manish-chopra/2/37/23','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Manish_Chopra.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Manish Chopra</div>
+      </div>
+   </div>
+   <div class="description">Co-Founer @ Zovi.com</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/vishix','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Vishal_Pal.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Vishal Pal</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ helpchat</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/kkhattar','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Kunal_Khattar.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Kunal Khattar</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Carnation Auto India</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/prasadvanga','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Prasad_Vanga.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Prasad Vanga</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Anthill Ventures</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/vikram-vuppala/0/237/558','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Vikram_Vuppala.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Vikram Vuppala</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ NephroPlus</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/ghoseb','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Baishampayan_Ghose.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Baishampayan Ghose</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Helpshift</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/sashankrishyasringa','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Sashank_Rishyasringa.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Sashank Rishyasringa</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Capital Float</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/soodsid','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Siddharth_Sood.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Siddharth Sood</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Wildcraft</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/kaushaldugar','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Kaushal_Dugar.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Kaushal Dugar</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Teabox</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/guneets','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Guneet_Singh.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Guneet Singh</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @DealsAndYou</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/profile/view?id=AAoAAAAlVRkB8GZdNX-i1De9XL5rqnpoyPzvpVI&authType=name&authToken=VPV7&trk=api*a109924*s118458*','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Probir_Roy.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Probir Roy</div>
+      </div>
+   </div>
+   <div class="description">Director @ PayMate</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/guptanitin','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Nitin_Gupta.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Nitin Gupta</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Attero</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/sandeepfreecultr','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Sandeep_Singh.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Sandeep Singh</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ FREECULTR</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/rama-harinath-k/0/b7a/5a7','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Rama_Harinath.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Rama Harinath</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ HomeLane</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/deepesh-agarwal/0/32/68a','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Deepesh_Agarwal.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Deepesh Agarwal</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder CEO @ MoveInSync</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/ajithkarimpana','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Ajith_Mohan.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Ajith Mohan</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ FURLENCO</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/tarunsmehta','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Tarun_Mehta.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Tarun Mehta</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Ather Energy</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/tufailkhan','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Tufail_Khan.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">TuFail Khan</div>
+      </div>
+   </div>
+   <div class="description">Co Founder @ Carwale.com</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/pub/pallavi-gupta/3/259/79','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Pallavi_Gupta.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Pallavi Gupta</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ MastKalandar</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/edulpatel','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Edul_Patel.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Edul Patel</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Niffler</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/ksamay','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Samay_Kohli.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Samay Kohli</div>
+      </div>
+   </div>
+   <div class="description">Co Founder @ Grey Orange</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/akash-gupta/106/907/59b','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Akash_Gupta.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Akash Gupta</div>
+      </div>
+   </div>
+   <div class="description">Founder @ GreyOrange Robotics</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/prashan','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Prashan_Agarwal.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Prashan Agarwal</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ PropTiger.com</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/brijeshagrawal','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Brijesh_Agrawal.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Brijesh Agrawal</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder & Director @ IndiaMART</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/ankit-somani/30/846/b43','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Amit_Somani.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Amit Somani</div>
+      </div>
+   </div>
+   <div class="description">Director @ Sonpriya Investments</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/sunil-shah/0/225/4bb','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Sunil_Shah.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Sunil Shah</div>
+      </div>
+   </div>
+   <div class="description">CEO @ O2h Ventures</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/profile/view?id=AAoAAAAG094Bzty3X-vyvzDnJm_PCWnOzXP25kI&authType=name&authToken=Cugb&trk=api*a109924*s118458*','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Prashant_Shah.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Prashant Shah</div>
+      </div>
+   </div>
+   <div class="description">Director @ O2h Ventures</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/vishyr10n','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Viswanath_Ramachandran.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Viswanath Ramachandran</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Hippily</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/varunkhurana','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Varun_Khanna.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Varun Khanna</div>
+      </div>
+   </div>
+   <div class="description">CTO @ Grofers</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/bhanu-chopra/0/801/65','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Bhanu_Chopra.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Bhanu Chopra</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ RateGain</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/alokkejriwal','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Alok_Kejriwal.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Alok Kejriwal</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Games2win India</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/manoj-yadav/45/b5b/119','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Manoj_Yadav.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Manoj Yadav</div>
+      </div>
+   </div>
+   <div class="description"></div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/sharad-dalmia/0/670/a8a','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Sharad_Dalmia.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Sharad Dalmia</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Staples.in</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/ravisl','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Ravi_Shankar.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Ravi Shankar</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ nearbuy</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/thesomani','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Amit_Somani.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Amit Somani</div>
+      </div>
+   </div>
+   <div class="description">Managing Partner @ AngelPrime</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/sridhar-venkatesh/1/b75/827','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Sridhar_Venkatesh.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Sridhar Venkatesh</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Indix</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/hsgrover','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Harpreet_Singh.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Harpreet Singh</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ CoCubes.com</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/mohit-tandon/6/904/3b','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Mohit_Tandon.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Mohit Tandon</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Delhivery</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://sg.linkedin.com/pub/amrish-rau/9/833/415','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Amrish_Rau.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Amrish Rau</div>
+      </div>
+   </div>
+   <div class="description">MD @ Citrus Payments</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/ankitnagori','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Ankit_Nagori.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Ankit Nagori</div>
+      </div>
+   </div>
+   <div class="description">Chief Business Officer @ Flipkart</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/sbverma','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Sameer_Verma.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Sameer verma</div>
+      </div>
+   </div>
+   <div class="description">Director @ Nexus Venture Partners</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/sujeet-kumar/16/39b/900','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Sujeet_Kumar.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Sujeet Kumar</div>
+      </div>
+   </div>
+   <div class="description">President @ Flipkart</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/sushant-kashyap/3/798/149','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Sushant_Kashyap.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Sushant Kashyap</div>
+      </div>
+   </div>
+   <div class="description">President @ Delhivery</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/profilevamsikrishna','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Vamsi_Krishna.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Vamsi Krishna</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Vedantu</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/sunish-sharma/0/213/26a','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Sunish_Sharma.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Sunish Sharma</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Kedaara Capital Advisors</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/nitin-sharma/2/616/748','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Nitin_Sharma.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Nitin Sharma</div>
+      </div>
+   </div>
+   <div class="description">Principal @ Lightbox Ventures</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/deepaksingh85','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Deepak_Singh.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Deepak Singh</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Anzy Careers</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/shobhit-singhal/b/598/a44','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Shobhit_Singhal.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Shobhit Singhal</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Qyk</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/gauravbhurat','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Gaurav_Bhurat.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Gaurav bhurat</div>
+      </div>
+   </div>
+   <div class="description">AD @ 3i India Infrastructure Fund</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/pub/ashutosh-agrawal/12/37/ba2','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Ashutosh_Agrawal.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Ashutosh Agrawal</div>
+      </div>
+   </div>
+   <div class="description">AD @ 3i Group</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/balli','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Gautam_Balijepalli.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Gautam Balijepalli</div>
+      </div>
+   </div>
+   <div class="description">Partner @ Ojas Venture Partners</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/vaibhavjain337','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Vaibhav_Jain.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Vaibhav Jain</div>
+      </div>
+   </div>
+   <div class="description">Sr SQA Engineer @ MobileIron</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/ambujtayal','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Ambuj_Tayal.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Ambuj Tayal</div>
+      </div>
+   </div>
+   <div class="description">Director @ Algoworks</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/vishnumohta','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Vishnu_Mohta.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Vishnu Mohta</div>
+      </div>
+   </div>
+   <div class="description">ED @ Shree Venkatesh Films</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/pub/mayank-agrawal/35/a5a/a32','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Mayank_Agarwal.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Mayank Agarwal</div>
+      </div>
+   </div>
+   <div class="description">MD @ Coaltech Engineers</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/anuraktjain','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Anurakt_Jain.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Anurakt Jain</div>
+      </div>
+   </div>
+   <div class="description">VP @ InMobi</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/pub/raghav-kheria-cfa/11/489/733','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Raghav_Kheria.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Raghav kheria</div>
+      </div>
+   </div>
+   <div class="description">Director @ Farinni Leather</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://ca.linkedin.com/in/muneetbhatia','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Muneet_Bhatia.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Muneet Bhatia</div>
+      </div>
+   </div>
+   <div class="description">Asst Business Manager @ AECOM</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/schintawar','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Sandip_Chintawar.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Sandip Chintawar</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Aquas Technologies</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/pub/kiran-jain/29/58b/440','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Kiran_jain.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Kiran jain</div>
+      </div>
+   </div>
+   <div class="description">Business Head @ HDFC Bank</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/saurav-jindal/5/53b/bb9','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Saurabh_Jindal.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Saurabh Jindal</div>
+      </div>
+   </div>
+   <div class="description">Analyst @ Tower Research Capital</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/tanmoyroy','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Tanmoy_Roy.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Tanmoy Roy</div>
+      </div>
+   </div>
+   <div class="description">Sr Analyst @ Scotiabank</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/vipul-gautam/2/412/a7b','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Vipul_Gautam.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Vipul Gautam</div>
+      </div>
+   </div>
+   <div class="description">VP @ Morgan Stanley</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/parshant-mittal/1/923/13','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Parshant_Mittal.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Parshant Mittal</div>
+      </div>
+   </div>
+   <div class="description">ED @ AlphaGrep Securities</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/manojrvarma','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Manoj_Varma.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Manoj Varma</div>
+      </div>
+   </div>
+   <div class="description">Head @ Lyra Network</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/viveklath','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Vivek_Lath.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Vivek Lath</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ GoQuest Media Ventures</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/akil-hirani/0/257/173','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Akil_Hirani.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Akil Hirani</div>
+      </div>
+   </div>
+   <div class="description">Managing Partner @ Majmudar & Partners</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/sandeep-banerjee/9/51/321','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Sandeep_Banerjee.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Sandeep Banerjee</div>
+      </div>
+   </div>
+   <div class="description">MD @ Compass Group PLC</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/aniruddhamalpani','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Aniruddha_Malpani.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Aniruddha Malpani</div>
+      </div>
+   </div>
+   <div class="description">Director @ Solidarity Investment Advisors</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/bhavikchinai','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Bhavik_Chinai.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Bhavik Chinai</div>
+      </div>
+   </div>
+   <div class="description">Director @ BVC Ventures</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/alok-agarwal-cfa/13/152/178','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Alok_Agarwal.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Alok Agarwal</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Striver Capital Advisors</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/kiranhejmadi','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Kiran_Hejmadi.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Kiran Hejmadi</div>
+      </div>
+   </div>
+   <div class="description">Sr Manager @ NPCI</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/guptasumit','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Sumit_Gupta.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Sumit Gupta</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ NewCO</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/harindrasingh','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Harindra_Singh.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Harindra Singh</div>
+      </div>
+   </div>
+   <div class="description">MD @ Percept</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/pirojshaw-sarkari/2a/aa8/b3','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Pirojshaw_Sarkari.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Pirojshaw Sarkari</div>
+      </div>
+   </div>
+   <div class="description">CEO @ Mahindra logistics</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('http://www.linkedin.com/in/jawadayaz','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Jawad_Ayaz.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Jawad Ayaz</div>
+      </div>
+   </div>
+   <div class="description">CEO @ Zansaar</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('http://www.linkedin.com/in/srinathmukherji','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Srinath_Mukherji.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Srinath Mukherji</div>
+      </div>
+   </div>
+   <div class="description">Independent Director @ Orbis Financial Corporation</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('http://www.linkedin.com/pub/chaitanya-aggarwal/14/70a/a30','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Chaitanya_Aggarwal.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Chaitanya Aggarwal</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Juvalia & You</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('http://www.linkedin.com/in/umeshluthria','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Umesh_Luthria.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Umesh Luthria</div>
+      </div>
+   </div>
+   <div class="description">MD @ Apodis Hotels</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Bipin_Kumar.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Bipin Kumar</div>
+      </div>
+   </div>
+   <div class="description"></div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/manindergill','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Maninder_Gill.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Maninder Gill</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Ideacts innovations</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/atulphadnis','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Atul_Phadnis.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Atul Phadnis</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Whatson</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/anujk','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Anuj_Kumar.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Anuj Kumar</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder & MD @ Affle</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/vvijaybabu','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Vijay_Babu.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Vijay Babu</div>
+      </div>
+   </div>
+   <div class="description">MD @ Start Smart Labs India</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/sridharg','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Sridhar_Gundaiah.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Sridhar Gundaiah</div>
+      </div>
+   </div>
+   <div class="description">Owner @ StoreKing</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/tapan-kumar-das/4/450/391','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Tapan_Kumar.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Tapan Kumar</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ iTiffin.in</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/sudheendrachilappagari','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Sudheendra_Chilappagari.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Sudheendra Chilappagari</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Belong.co</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/umeshluthria','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Umesh_Luthria.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Umesh Luthria</div>
+      </div>
+   </div>
+   <div class="description">CEO @ Apodis Hotels</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/kumar-puspesh/7/449/47','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Kumar_Puspesh.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Kumar Puspesh</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ MoonFrag Labs</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/jay-kaushik/7/434/80b','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Jay_Kaushik.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Jay Kaushik</div>
+      </div>
+   </div>
+   <div class="description">Co Founder @ Curatio healthcare</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/sameerbuti','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Sameer_Buti.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Sameer Buti</div>
+      </div>
+   </div>
+   <div class="description">Director @ Mind Shaper Technologies</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/mainichetan','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Maini_Chetan.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Maini Chetan</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Mahindra Reva Electric Vehicles</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/abinand','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Abinand_Natarajan.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Abinand Natarajan</div>
+      </div>
+   </div>
+   <div class="description">Investment Banking Associate @ Jefferies & Company</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/adityagoel','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Aditya_Goel.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Aditya Goel</div>
+      </div>
+   </div>
+   <div class="description">Director @ Cellent Technologies</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/sandeep-soni/9/975/835','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Sandeep_Soni.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Sandeep Soni</div>
+      </div>
+   </div>
+   <div class="description">COO @ Unique Business Systems</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/devalt','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Deval_Tibrewalla.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Deval Tibrewalla</div>
+      </div>
+   </div>
+   <div class="description">CEO @ Polo Towers Group</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/vishal-khare/1a/b5a/492','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Vishal_Khare.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Vishal Khare</div>
+      </div>
+   </div>
+   <div class="description">Director @ Citrix</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('http://www.linkedin.com/in/senthilk','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Senthil_Kumar.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Senthil Kumar</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Real Image</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/pub/taha-nabee/3/837/a39','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Taha_Nabee.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Taha Nabee</div>
+      </div>
+   </div>
+   <div class="description">VP @ Aromatan Cosmetics</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/ashishagarwal21','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Ashish_Agarwal.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Ashish Agarwal</div>
+      </div>
+   </div>
+   <div class="description">MD @ Digital Harbor</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Rajneesh_Dhall.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Rajneesh Dhall</div>
+      </div>
+   </div>
+   <div class="description">MD @ MHFCIndia</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/seshkrishnan','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Seshadri_Krishnan.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Seshadri Krishnan</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Trip38.com</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/apsetu','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Amit_Patel.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Amit Patel</div>
+      </div>
+   </div>
+   <div class="description">MD @ Setu Net</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/manojgursahani','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Manoj_Gursahani.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Manoj Gursahani</div>
+      </div>
+   </div>
+   <div class="description">Vice Chairman @ US India Investors Forum</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/mohitchitkara','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Mohit_Chitkara.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Mohit Chitkara</div>
+      </div>
+   </div>
+   <div class="description">VP @ Chitkara University</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/ianfernandes','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Ian_Fernandes.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Ian Fernandes</div>
+      </div>
+   </div>
+   <div class="description">Director @ SCB</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/akshay-jain/2/bb5/614','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Akshay_Jain.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Akshay Jain</div>
+      </div>
+   </div>
+   <div class="description">Founder Director @ Vedam Design</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/sanjay-krishna-goyal/96/b89/519','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Sanjay_Krishna.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Sanjay Krishna</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ ACL Mobile</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/venky7','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Venkatesh_Hariharan.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Venkatesh Hariharan</div>
+      </div>
+   </div>
+   <div class="description">Director @ Alchemy Business Solutions</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/pub/apurva-salarpuria/1/7a/54a','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Apurva_Salarpuria.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Apurva Salarpuria</div>
+      </div>
+   </div>
+   <div class="description">ED @ Salarpuria Group</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/muktihariharan','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Mukti_Hariharan.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Mukti Hariharan</div>
+      </div>
+   </div>
+   <div class="description">VP @ Credit Suisse</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/profile/view?id=AAoAAAAAoqUBkpyJYqfgUqGsx9STQKROZinI4wU&authType=name&authToken=pjqm&trk=api*a109924*s118458*','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Samir_Sood.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Samir Sood</div>
+      </div>
+   </div>
+   <div class="description">MD @ India Forge</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/veena-ashiya/15/736/760','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Veena_Ashiya.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Veena Ashiya</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Diskover</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/naru-narayanan/5/991/159','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/R_Narayan.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">R Narayan</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Reelbox</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/ajayhattangdi','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Ajay_Hattangdi.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Ajay Hattangdi</div>
+      </div>
+   </div>
+   <div class="description">CEO @ InnoVen Capital</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/dewangneralla','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Dewang_Narella.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Dewang Narella</div>
+      </div>
+   </div>
+   <div class="description">CEO @ Atom Technologies</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/pub/abhay-jaipuria/19/b35/1bb','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Abhay_Jaipuria.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Abhay Jaipuria</div>
+      </div>
+   </div>
+   <div class="description">Business Development @ Universal Textile Mills</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/akshay-mansukhani/0/314/42a','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Akshay_Mansukhani.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Akshay Mansukhani</div>
+      </div>
+   </div>
+   <div class="description">Partner @ Malabar Investments</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/nagendra-bandaru/1/728/73','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Nangendra_Bandaru.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Nangendra Bandaru</div>
+      </div>
+   </div>
+   <div class="description">SVP @ Wipro</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/hemanthrao','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Hemanth_Rao.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Hemanth Rao</div>
+      </div>
+   </div>
+   <div class="description">Director @ Meka Group</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/ashish-agarwal/0/530/baa','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Ashish_Agarwal1.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Ashish Agarwal</div>
+      </div>
+   </div>
+   <div class="description">CEO @ ABC India</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/reachrahul','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Rahul_Agarwal.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Rahul Agarwal</div>
+      </div>
+   </div>
+   <div class="description">VP @ Near</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/pub/nitesh-damani/18/94b/193','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Nitesh_Damani.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Nitesh Dhamani</div>
+      </div>
+   </div>
+   <div class="description">Director @ Sugal & Damani</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/anup-bhasin/4/414/95','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Anup_Bhasin.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Anup Bhasin</div>
+      </div>
+   </div>
+   <div class="description">COO @ UnitedLex</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/mjauhar','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Munish_Jauhar.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Munish Jauhar</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Graycell Technologies Exports</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/kishoreganji','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Kishore_Ganji.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Kishore</div>
+      </div>
+   </div>
+   <div class="description">CEO @ Astir IT Solutions</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/jnayyar','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Jitendra_Nayyar.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Jitendra Nayyar</div>
+      </div>
+   </div>
+   <div class="description">CFO @ Aviva Insurance</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/rajkulkarniatseedfire','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Raj_Kulkarni.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Raj Kulkarni</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ SeedFire Venture Advisors</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/abhishekjain81','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Abhishek_Jain.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Abhishek Jain</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Startup Partners</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/in/mukundvenkatesh','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Mukund_Venkatesh.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Mukund Venkatesh</div>
+      </div>
+   </div>
+   <div class="description">VP @ Global Analytics</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/nikunjjain1','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Nikunj_Jain.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Nikunj Jain</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Frankly.me</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/shiben-dalal/1a/a2b/485','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Shiben_Dalal.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Shiben Dalal</div>
+      </div>
+   </div>
+   <div class="description">Partner @ Modern Packaging Company</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/herochoudhary','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Hero_Choudhary.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Hero Choudhary</div>
+      </div>
+   </div>
+   <div class="description">Analyst @ J. Goldman</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/geetbhanawat','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Geet_Bhanawat.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Geet Bhanawat</div>
+      </div>
+   </div>
+   <div class="description">Principal @ BCG</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://ae.linkedin.com/pub/mohit-mittal/b/701/440','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Mohit_Mittal.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Mohit Mittal</div>
+      </div>
+   </div>
+   <div class="description">Career Planning Manager @ Schlumberger</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/gargakshay','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Akshay_Garg.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Akshay Garg</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Komli Media</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/gourav-dhavale/a/582/458','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Gourav_Dhavale.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Gourav Dhavale</div>
+      </div>
+   </div>
+   <div class="description">Credit Desk Analyst @ Nomura International</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/alakh-naresh-gargiya/11/39b/b77','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Alakh_Gargiya.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Alakh Gargiya</div>
+      </div>
+   </div>
+   <div class="description">VP @ Barclays Investment Bank</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/freedum','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Kaushal_Chandak.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Kaushal Chandak</div>
+      </div>
+   </div>
+   <div class="description">Sr. Manager @ Motilal Oswal Investment Advisors</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/farhanalinaqvi','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Farhan_Naqvi.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Farhan Naqvi</div>
+      </div>
+   </div>
+   <div class="description">Investment Banker @ Deutsche Bank</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/tsiva','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Siva_Kumar.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Siva Kumar</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Kawanan Labs</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/krishna-singhania/ab/b16/93','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Krishna_Singhania.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Krishna Singhania</div>
+      </div>
+   </div>
+   <div class="description">Operations Director @ Seadrill Careers</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/nikhil-mohta/0/2b2/90','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Nikhil_Mohta.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Nikhil Mohta</div>
+      </div>
+   </div>
+   <div class="description">Director @ The Carlyle Group</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/abhijeetpai','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Abhijeet_Pai.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Abhijeet Pai</div>
+      </div>
+   </div>
+   <div class="description">President @ Puzzolana Machinery Fabricators</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/harsh-baid/15/b55/2b1','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Harsh_Baid.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Harsh Baid</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ UrbanRestro.com</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/bhavinshah7','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Bhavin_Shah.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Bhavin Shah</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Sameeksha Portfolio Advisors</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/uma-javeri/19/436/a70','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Uma_Zaveri.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Uma Zaveri</div>
+      </div>
+   </div>
+   <div class="description">MD @ S.Zhaveri Pharmakem</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/pub/raian-sorabjee/10/636/aa0','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Raian_Sorabjee.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Raian Sorabjee</div>
+      </div>
+   </div>
+   <div class="description">Partnership Development @ Housing.com</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://in.linkedin.com/pub/nihir-parikh/4/b21/383','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Nihir_Parikh.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Nihir Parikh</div>
+      </div>
+   </div>
+   <div class="description">Chief Strategy Officer @ Nykaa.com</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/krishna-khandelwal/1a/73b/498','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Krishna_Khandelwal.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Krishna Khandelwal</div>
+      </div>
+   </div>
+   <div class="description">VP @ Barclays Capital</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/janhavi-parikh/5/b1/620','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Janhavi_Parikh.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Janhavi Parikh</div>
+      </div>
+   </div>
+   <div class="description">Business Head @ Cartrade.com</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/shubham-gupta/5/592/697','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Shubham_Gupta.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Shubham Gupta</div>
+      </div>
+   </div>
+   <div class="description">VP @ Nomura</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/puneet-maheshwari/a/663/857','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Puneet_Maheshwari.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Puneet Maheshwari</div>
+      </div>
+   </div>
+   <div class="description">VP @ WorldQuant</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/mananshah212','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Manan_Shah.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Manan Shah</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Red Button Software Labs</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/dkhare','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Dev_Khare.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Dev Khare</div>
+      </div>
+   </div>
+   <div class="description">Investment Advisor @ Oku Tech</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/gshewakr','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Gautam_Shewakramani.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Gautam Shewakramani</div>
+      </div>
+   </div>
+   <div class="description">Founder @ AudioCompass</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/reddyrs','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Raja_Sekhar.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Raj Shekar-Reddy</div>
+      </div>
+   </div>
+   <div class="description">COO @ Innovsource</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/shishir-gorle/4/637/943','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Shishir_Gorle.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Shishir Gorle</div>
+      </div>
+   </div>
+   <div class="description">CEO @ Innovsource</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/pub/laxmikant-lahoti-pmp/1b/673/33b','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/LaxmiKant_Lahoti.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">LaxmiKant Lahoti</div>
+      </div>
+   </div>
+   <div class="description">Sr System Analyst @ DP World</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/dhritimanranawat','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/DhritiMan_Ranawat.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">DhritiMan Ranawat</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ Unified TechLabs</div>
+</div>
+<div class="col-md-2 col-lg-2 col-xs-6 team-member member" onclick="window.open('https://www.linkedin.com/in/adhvithd','mywindow');">
+   <div class="face-wrapper">
+      <div class="pointer pic" style="background: url(../img/Adhvith_Dhuddu.jpg)">
+         <div class="overlay"></div>
+         <div class="caption">Adhvith Dhuddu</div>
+      </div>
+   </div>
+   <div class="description">Co-Founder @ AliveNow</div>
+</div>

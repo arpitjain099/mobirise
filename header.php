@@ -7,6 +7,7 @@ session_start();
   <meta name="generator" content="FundMyVenture.co">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="shortcut icon" href="assets/images/rsz_arrow5-up-512.png" type="image/x-icon">
+
   <meta name="description" content="Making Angel Investments Easy. For Everyone.">
   <title>FundMyVenture | Angel Investing</title>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:700,400&amp;subset=cyrillic,latin,greek,vietnamese">
@@ -17,10 +18,99 @@ session_start();
   <link rel="stylesheet" href="assets/fundmyventure-slider/style.css">
   <link rel="stylesheet" href="assets/fundmyventure-gallery/style.css">
   <link rel="stylesheet" href="assets/fundmyventure/css/mbr-additional.css" type="text/css">
-  
+  <script src="assets/jquery/jquery.min.js"></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+<script>
+ 
+
+function go_to_companies_page()
+{
+window.location = 'companies.php'; // Members Area
+}
+</script>
+
 </head>
 
   <div class="modal fade" id="loginmodal" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+           <button type="button" class="close" data-dismiss="modal">x</button>
+          <script type="text/javascript">
+          function pleaserun(){
+            
+  //console.log(document.getElementById("email").value);
+  //console.log(document.getElementById("password").value);
+
+
+
+$.post('server/checkcredentials.php', { 
+  email: document.getElementById("email").value,
+  password:document.getElementById("password").value
+}) 
+.done(function( data ) {
+  //alert("yo");
+  console.log(data);
+
+//alert(data);
+  try{
+    if(data == "OK") // LOGIN OK?
+ {   
+  document.getElementById('status').innerHTML="Login successful. ";
+setTimeout('go_to_companies_page()', 3000); 
+ }  
+ else if (data=='failed')// ERROR?
+ {  
+  document.getElementById('status').innerHTML="Login credentials not found. Please try again.";
+ } 
+ else  {
+      document.getElementById('status').innerHTML="Server under heavy load. Please try again.";  
+   }
+ }
+ catch (e) {
+      console.log(e);
+      alert("Something went wrong! We are working hard to fix it!")
+        console.log("failed");
+    }
+ 
+
+})
+
+.fail(function() {
+    alert( "error" );
+  });
+
+}
+          </script>
+          <center><h4 class="modal-title">Login</h4></center>
+        </div>
+        <div class="modal-body">
+          
+              <label for="email">Username</label>
+              <p><input type="text" name="eid" id="email" placeholder="Enter your email "></p>
+              <label for="password">FundMyVenture Password</label>
+              <p><input type="password"  id="password" name="password" placeholder="Password"></p>
+              <div id="status"></div>
+              <button id="loginsubmit" class="btn btn-primary" onclick="pleaserun()">Sign in</button><br>
+                <p>
+                <a data-toggle="modal" href="#forgotpassword">Forgot Password?</a>
+              </p>
+            
+        </div>
+        <div class="modal-footer">
+          New To FundMyVenture?
+            <a href="#" class="btn btn-default">Register</a>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+
+
+  <div class="modal fade" id="forgotpassword" role="dialog">
     <div class="modal-dialog">
     
       <!-- Modal content-->
@@ -31,14 +121,16 @@ session_start();
 // <div class="dropdown">    <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Dropdown Example    <span class="caret"></span></button>    <ul class="dropdown-menu">      <li><a href="#">HTML</a></li>      <li><a href="#">CSS</a></li>      <li><a href="#">JavaScript</a></li>    </ul>  </div>
 
            ?>
-          <center><h4 class="modal-title">Login</h4></center>
+          <center><h4 class="modal-title">Reset your account password</h4></center>
         </div>
         <div class="modal-body">
-           <form method="post" action='' name="login_form">
-              <p><input type="text" name="eid" id="email" placeholder="Email"></p>
-              <p><input type="password"  name="passwd" placeholder="Password"></p>
-              <p><button type="submit" class="btn btn-primary">Sign in</button><br>
-                <a href="#">Forgot Password?</a>
+           <form method="post" action='' name="forgotpasswordform">
+              <label for="reset_email">Username</label>
+              <p><input type="text" name="eid" id="reset_email" placeholder="E-mail ID "></p>
+             
+              <div id="forgotpasswordstatus"></div>
+              <p><button type="submit" id="reset_submit" class="btn btn-primary">Reset password</button><br>
+                
               </p>
             </form>
 
@@ -51,6 +143,7 @@ session_start();
       
     </div>
   </div>
+
 
 
   <div class="modal fade" id="windowloadmodal" role="dialog">
@@ -132,7 +225,7 @@ session_start();
   </div>
 <body>
 
-<section class="mbr-navbar mbr-navbar--freeze mbr-navbar--absolute mbr-navbar--transparent mbr-navbar--sticky mbr-navbar--auto-collapse" id="menu-20">
+<section class="mbr-navbar mbr-navbar--freeze mbr-navbar--relative mbr-navbar--sticky mbr-navbar--auto-collapse" id="menu-20">
     <div class="mbr-navbar__section mbr-section">
         <div class="mbr-section__container container">
             <div class="mbr-navbar__container">
@@ -149,16 +242,18 @@ session_start();
                             <li class="mbr-navbar__item"><a class="mbr-buttons__link btn text-white" href="#contact">Contact</a></li>
                             <li class="mbr-navbar__item">
                               <?php 
-                              if (!isset($_SESSION['username'])) {
+                              if (isset($_SESSION['username'])) {
     // ...
-                                 echo ' <div class="dropdown">    <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Dropdown Example    <span class="caret"></span></button>    <ul class="dropdown-menu">      <li><a href="#">HTML</a></li>      <li><a href="#">CSS</a></li>      <li><a href="#">JavaScript</a></li>    </ul>  </div>'; 
-//$_SESSION["username"]
-                              
+                                 echo '<div class="dropdown"> <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Welcome '.'Arpit' .'<span class="caret"></span></button> <ul class="dropdown-menu"> <li><a href="profile.php">Profile</a></li> <li><a href="learn.php" target="_blank">Learn</a></li> <li><a href="#">Logout</a></li> </ul> </div>'; 
+//$_SESSION["username"] 
+                           }      
                                
+                               else echo '<div class="mbr-buttons  mbr-buttons--left"><center><a class="mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning" data-toggle="modal" href="#loginmodal">Login</a></center>';
                               ?>
 
-                              <div class="mbr-buttons  mbr-buttons--left"><a class="mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning" data-toggle="modal" href="#loginmodal">Login</a> </div>
+                              
                             </li>
+
                           </ul></div>
                 
                     </nav>
